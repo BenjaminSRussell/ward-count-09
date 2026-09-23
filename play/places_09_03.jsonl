@@ -151,3 +151,6 @@
 {"n":151,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east curb. direct left open. 6 steps. The barrel stays for the push."}
 {"n":152,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at High line. Nobody past the east curb. We push in 7 steps. Direct on the left lane, open."}
 {"n":153,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line east curb. Nia keeps the barrel for the push. 8 steps, direct on the left lane, open."}
+{"n":154,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east curb. direct left open. 2 steps. The barrel stays for the push."}
+{"n":155,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at High line. Nobody past the east curb. We push in 3 steps. Direct on the left lane, open."}
+{"n":156,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line east curb. Ivo keeps the barrel for the push. 4 steps, direct on the left lane, open."}
