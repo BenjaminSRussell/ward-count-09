@@ -174,3 +174,6 @@
 {"n":174,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south curb. direct left open. 4 steps. The barrel stays for the push."}
 {"n":175,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Drydock. Nobody past the south curb. We push in 5 steps. Direct on the left lane, open."}
 {"n":176,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south curb. Ivo keeps the barrel for the push. 6 steps, direct on the left lane, open."}
+{"n":177,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south curb. direct left open. 7 steps. The barrel stays for the push."}
+{"n":178,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Drydock. Nobody past the south curb. We push in 8 steps. Direct on the left lane, open."}
+{"n":179,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south curb. Bess keeps the barrel for the push. 2 steps, direct on the left lane, open."}
