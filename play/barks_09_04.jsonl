@@ -326,3 +326,6 @@
 {"n":326,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line east curb. Matt keeps the drum for the push. 5 steps, direct on the left lane, open."}
 {"n":327,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east curb. direct left open. 6 steps. The drum stays for the push."}
 {"n":328,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at High line. Nobody past the east curb. We push in 7 steps. Direct on the left lane, open."}
+{"n":329,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line east curb. Nia keeps the drum for the push. 8 steps, direct on the left lane, open."}
+{"n":330,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east curb. direct left open. 2 steps. The drum stays for the push."}
+{"n":331,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at High line. Nobody past the east curb. We push in 3 steps. Direct on the left lane, open."}
