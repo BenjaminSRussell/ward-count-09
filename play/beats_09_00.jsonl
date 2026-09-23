@@ -485,3 +485,6 @@
 {"n":485,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the south escape. We start in 7 steps. Direct on the left lane, open."}
 {"n":486,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the radio coil for the start. 8 steps, direct on the left lane, open."}
 {"n":487,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The radio coil stays for the start."}
+{"n":488,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the south escape. We start in 3 steps. Direct on the left lane, open."}
+{"n":489,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the radio coil for the start. 4 steps, direct on the left lane, open."}
+{"n":490,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south escape. direct left open. 5 steps. The radio coil stays for the start."}
