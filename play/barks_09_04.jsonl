@@ -713,3 +713,6 @@
 {"n":713,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north curb. Nia keeps the plywood for the push. 7 steps, direct on the left lane, open."}
 {"n":714,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north curb. direct left open. 8 steps. The plywood stays for the push."}
 {"n":715,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the plywood at Stockyard fence. Nobody past the north curb. We push in 2 steps. Direct on the left lane, open."}
+{"n":716,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north curb. Ivo keeps the plywood for the push. 3 steps, direct on the left lane, open."}
+{"n":717,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north curb. direct left open. 4 steps. The plywood stays for the push."}
+{"n":718,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at Stockyard fence. Nobody past the north curb. We push in 5 steps. Direct on the left lane, open."}
