@@ -333,3 +333,6 @@
 {"n":333,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west curb. direct left open. 8 steps. The lamp stays for the push."}
 {"n":334,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the lamp at Kessler alley. Nobody past the west curb. We push in 2 steps. Direct on the left lane, open."}
 {"n":335,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west curb. Bess keeps the lamp for the push. 3 steps, direct on the left lane, open."}
+{"n":336,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west curb. direct left open. 4 steps. The lamp stays for the push."}
+{"n":337,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at the Lot. Nobody past the west curb. We push in 5 steps. Direct on the left lane, open."}
+{"n":338,"kind":"place","name":"the Lot west curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot west curb. Matt keeps the lamp for the push. 6 steps, direct on the left lane, open."}
