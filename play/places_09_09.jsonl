@@ -355,3 +355,6 @@
 {"n":355,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west mouth. direct left open. 8 steps. The crate stays for the push."}
 {"n":356,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Drydock. Nobody past the west mouth. We push in 2 steps. Direct on the left lane, open."}
 {"n":357,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock west mouth. Nia keeps the crate for the push. 3 steps, direct on the left lane, open."}
+{"n":358,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west mouth. direct left open. 4 steps. The crate stays for the push."}
+{"n":359,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Drydock. Nobody past the west mouth. We push in 5 steps. Direct on the left lane, open."}
+{"n":360,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock west mouth. Ivo keeps the crate for the push. 6 steps, direct on the left lane, open."}
