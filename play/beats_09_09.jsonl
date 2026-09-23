@@ -191,3 +191,6 @@
 {"n":191,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Drydock. Nobody past the west mouth. We push in 5 steps. Direct on the left lane, open."}
 {"n":192,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock west mouth. Ivo keeps the barrel for the push. 6 steps, direct on the left lane, open."}
 {"n":193,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west mouth. direct left open. 7 steps. The barrel stays for the push."}
+{"n":194,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Drydock. Nobody past the west mouth. We push in 8 steps. Direct on the left lane, open."}
+{"n":195,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock west mouth. Bess keeps the barrel for the push. 2 steps, direct on the left lane, open."}
+{"n":196,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west mouth. direct left open. 3 steps. The barrel stays for the push."}
